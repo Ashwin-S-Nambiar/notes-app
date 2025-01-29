@@ -1,12 +1,12 @@
 # 🗒️ Notes App
 
-***A full-stack app made with the help of Next.js. Made in order to better understand Next.js and full-stack with it too.***
+***A full-stack app made with the help of Next.js. Made in order to better understand Next.js and full-stack with it too. Also uses PocketBase for holding the data.***
 
 ## 🛠️ Tech Stack
 
 - **Next.js - Creating the app, structure.**
 - **TailwindCSS - For theming.**
-- **Pocketbase - For API call / backend**
+- **PocketBase - For API call / backend**
 
 ## ✨ Installation / Running
 
