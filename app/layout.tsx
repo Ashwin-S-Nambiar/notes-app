@@ -12,16 +12,16 @@ export default function RootLayout({
                 <title>Notes App</title> 
             </head>
             <body className="bg-black min-h-full">
-                <main className="min-h-screen bg-gradient-to-b from-gray-900 to-black text-white">
+                <main className="min-h-screen bg-linear-to-b from-gray-900 to-black text-white">
                     {/* Navigation bar with blur effect */}
-                    <nav className="sticky top-0 z-50 backdrop-blur-sm border-b border-gray-800 bg-black/50">
+                    <nav className="sticky top-0 z-50 backdrop-blur-xs border-b border-gray-800 bg-black/50">
                         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                             <div className="flex items-center justify-between h-16">
                                 {/* Logo and primary navigation */}
                                 <div className="flex items-center space-x-8">
                                     <Link 
                                         href="/" 
-                                        className="text-xl font-bold bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent"
+                                        className="text-xl font-bold bg-linear-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent"
                                     >
                                         Notes
                                     </Link>

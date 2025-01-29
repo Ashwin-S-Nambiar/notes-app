@@ -14,7 +14,7 @@ export default async function NotesPage() {
     return(
         <div className="space-y-8">
             <div className="flex flex-col justify-between">
-                <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent">
+                <h1 className="text-4xl font-bold bg-linear-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent">
                     Notes
                 </h1>
             </div>
