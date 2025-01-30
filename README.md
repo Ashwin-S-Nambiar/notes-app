@@ -1,6 +1,6 @@
 # 🗒️ Notes App
 
-***A full-stack app made with the help of Next.js with TypeScript. Made in order to better understand Next.js and full-stack with it too. Also uses PocketBase for holding the data. More improvements are on the way.***
+***A full-stack app made using Next.js with TypeScript. Built to better understand Next.js and full-stack development. Uses PocketBase for backend, so can only run locally for the moment. More improvements coming soon.***
 
 ## 🛠️ Tech Stack
 
