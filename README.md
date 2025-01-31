@@ -7,9 +7,9 @@
 - **Next.js - For building the app.**
 - **TypeScript - For static typing.**
 - **TailwindCSS - For theming and styling purposes.**
-- **[PocketBase](https://pocketbase.io/docs/) - For API call / backend.**
+- **[PocketBase](https://pocketbase.io/docs/) - For backend purposes.**
 
-## ✨ Installation / Running
+## ✨ Installation & Running
 
 1. **Clone the repo to your PC.**
 2. **Run `npm i && npm run dev` in the terminal to install the dependencies and to run the app.**
