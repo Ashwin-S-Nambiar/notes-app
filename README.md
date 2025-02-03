@@ -20,7 +20,7 @@ A full-stack app made using Next.js with TypeScript. Built to better understand 
 - **Backend:**
   - [PocketBase](https://pocketbase.io/docs/): A lightweight backend for managing data storage and users.
 
-## 🚀 Installation & Running Locally
+## 🛠️ Installation & Running Locally
 
 To run the application locally, follow these steps:
 
