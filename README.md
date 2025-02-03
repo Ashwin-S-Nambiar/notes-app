@@ -1,22 +1,59 @@
+
 # 🗒️ Notes App
 
-***A full-stack app made using Next.js with TypeScript. Built to better understand Next.js and full-stack development. Uses PocketBase for backend, so can only run locally for the moment. More improvements coming soon.***
+**Description:**  
+A full-stack app made using Next.js with TypeScript. Built to better understand Next.js and full-stack development. Uses PocketBase for backend, so can only run locally for the moment. More improvements coming soon.
+
+## 🚀 Features
+
+- **Create, Edit, and Delete Notes:** Easily manage your notes by adding, editing, and deleting them.
+- **Responsive Design:** The app is optimized for a seamless experience on different devices.
+- **Backend Integration:** Uses PocketBase as the backend for storing and managing notes.
 
 ## 🛠️ Tech Stack
 
-- **Next.js - For building the app.**
-- **TypeScript - For static typing.**
-- **TailwindCSS - For theming and styling purposes.**
-- **[PocketBase](https://pocketbase.io/docs/) - For backend purposes.**
+- **Frontend:**
+  - [Next.js](https://nextjs.org/): A React framework for building server-side rendered applications.
+  - [TypeScript](https://www.typescriptlang.org/): A typed superset of JavaScript.
+  - [TailwindCSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
 
-## ✨ Installation & Running
+- **Backend:**
+  - [PocketBase](https://pocketbase.io/docs/): A lightweight backend for managing data storage and users.
 
-1. **Clone the repo to your PC.**
-2. **Run `npm i && npm run dev` in the terminal to install the dependencies and to run the app.**
-3. **Go to [PocketBase](https://pocketbase.io/docs/) and download the `pocketbase.exe` file for your operating system.**
-4. **After adding the `pocketbase.exe` file to your root folder in your ptoject, run `./pocketbase serve`.**
-5. **This will run the server and ask you to create a new collection and to create records accordingly. The API point will be at `http://localhost/api/` to access the data.**
-6. **Congrats! You have completed the intialization for the app and can continue with the changes you intend to do.**
+## 🚀 Installation & Running Locally
+
+To run the application locally, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Ashwin-S-Nambiar/Notes-App.git
+   cd notes-app
+   ```
+
+2. **Install Dependencies:** Ensure you have **Node.js** installed. Then, install the required packages:
+
+   ```bash
+   npm install
+   ```
+
+3. **Set Up PocketBase:**  
+   - Visit [PocketBase](https://pocketbase.io/docs/) and download the `pocketbase.exe` file for your operating system.
+   - After adding the `pocketbase.exe` file to your project root, run the following command:
+
+     ```bash
+     ./pocketbase serve
+     ```
+
+4. **Create a New Collection:** Follow the prompts to create a new collection and records. The API endpoint will be accessible at `http://localhost/api/` for data access.
+
+5. **Start the Development Server:**
+
+   ```bash
+   npm run dev
+   ```
+
+   **The application will be accessible at `http://localhost:3000`.**
 
 ## 📸 Screenshots
 <div align="center">
@@ -44,5 +81,5 @@
     <img src="./public/screenshots/Backend-Structure.png" alt="PocketBase Backend Structure" />
 </div>
 
-## 🧔‍♂️ Author
-**Ashwin S Nambiar**
+## 🧑‍💻 Author
+**[Ashwin S Nambiar](https://ashwin-s-nambiar.is-a.dev/)**
