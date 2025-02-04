@@ -1,85 +1,102 @@
+# Notes App 📝
 
-# 🗒️ Notes App
+<div align="center">
 
-**Description:**  
-A full-stack app made using Next.js with TypeScript. Built to better understand Next.js and full-stack development. Uses PocketBase for backend, so can only run locally for the moment. More improvements coming soon.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
 
-## 🚀 Features
+A modern, full-stack notes application built with Next.js and TypeScript, powered by PocketBase for backend operations.
 
-- **Create, Edit, and Delete Notes:** Easily manage your notes by adding, editing, and deleting them.
-- **Responsive Design:** The app is optimized for a seamless experience on different devices.
-- **Backend Integration:** Uses PocketBase as the backend for storing and managing notes.
+[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation--running-locally) • [Screenshots](#-screenshots) • [Author](#-author)
+
+</div>
+
+## ✨ Features
+
+- **🎯 Intuitive Note Management** - Create, edit, and delete notes with ease
+- **📱 Responsive Design** - Seamless experience across all devices
+- **⚡ Fast Performance** - Built with Next.js for optimal speed and SEO
+- **🔒 Local Backend** - Powered by PocketBase for secure data management
 
 ## 🛠️ Tech Stack
 
-- **Frontend:**
-  - [Next.js](https://nextjs.org/): A React framework for building server-side rendered applications.
-  - [TypeScript](https://www.typescriptlang.org/): A typed superset of JavaScript.
-  - [TailwindCSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
+### Frontend
+- **Next.js** - React framework for production
+- **TypeScript** - For type-safe code
+- **TailwindCSS** - Utility-first CSS framework
 
-- **Backend:**
-  - [PocketBase](https://pocketbase.io/docs/): A lightweight backend for managing data storage and users.
+### Backend
+- **PocketBase** - Open source backend in one file
 
-## 🛠️ Installation & Running Locally
+## 🚀 Installation / Running Locally
 
-To run the application locally, follow these steps:
-
-1. **Clone the Repository:**
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/Ashwin-S-Nambiar/Notes-App.git
    cd notes-app
    ```
 
-2. **Install Dependencies:** Ensure you have **Node.js** installed. Then, install the required packages:
+2. **Install dependencies**
 
    ```bash
    npm install
    ```
 
-3. **Set Up PocketBase:**  
-   - Visit [PocketBase](https://pocketbase.io/docs/) and download the `pocketbase.exe` file for your operating system.
-   - After adding the `pocketbase.exe` file to your project root, run the following command:
+3. **Set up PocketBase**
+   - Download PocketBase executable from [pocketbase.io](https://pocketbase.io/docs/)
+   - Add `pocketbase.exe` to project root
+   - Start PocketBase server:
 
      ```bash
      ./pocketbase serve
      ```
 
-4. **Create a New Collection:** Follow the prompts to create a new collection and records. The API endpoint will be accessible at `http://localhost/api/` for data access.
+4. **Configure PocketBase**
+   - Create a new collection following the prompts
+   - API endpoint will be available at `http://localhost/api/`
 
-5. **Start the Development Server:**
+5. **Launch development server**
 
    ```bash
    npm run dev
    ```
-
-   **The application will be accessible at `http://localhost:3000`.**
+   Visit `http://localhost:3000` to view the app
 
 ## 📸 Screenshots
+
 <div align="center">
-    <h3>Landing Page</h3>
-    <img src="./public/screenshots/Landing-Page.png" alt="Landing Page" />
-</div>
-<div align="center">
-    <h3>Adding a New Note</h3>
-    <img src="./public/screenshots/Note-Adding.png" alt="Adding a new Note" />
-</div>
-<div align="center">
-    <h3>Showing the New Note in Home Page</h3>
-    <img src="./public/screenshots/New-Note-Added.png" alt="Showing the New Note in Home" />
-</div>
-<div align="center">
-    <h3>Note Details Page</h3>
-    <img src="./public/screenshots/Note-Detail.png" alt="Note Details Page" />
-</div>
-<div align="center">
-    <h3>PocketBase Backend</h3>
-    <img src="./public/screenshots/PocketBase.png" alt="PocketBase Backend" />
-</div>
-<div align="center">
-    <h3>PocketBase Backend Structure</h3>
-    <img src="./public/screenshots/Backend-Structure.png" alt="PocketBase Backend Structure" />
+
+### Landing Page
+![Landing Page](./public/screenshots/Landing-Page.png)
+
+### Creating a New Note
+![Adding a Note](./public/screenshots/Note-Adding.png)
+
+### Home Page with New Note
+![New Note Added](./public/screenshots/New-Note-Added.png)
+
+### Note Details
+![Note Details](./public/screenshots/Note-Detail.png)
+
+### PocketBase Admin Interface
+![PocketBase Backend](./public/screenshots/PocketBase.png)
+
+### Database Structure
+![Backend Structure](./public/screenshots/Backend-Structure.png)
+
 </div>
 
-## 🧑‍💻 Author
-**[Ashwin S Nambiar](https://ashwin-s-nambiar.is-a.dev/)**
+## 👤 Author
+
+### Ashwin S Nambiar
+- Portfolio: [ashwin-s-nambiar.is-a.dev](https://ashwin-s-nambiar.is-a.dev/)
+- GitHub: [@Ashwin-S-Nambiar](https://github.com/Ashwin-S-Nambiar)
+
+---
+
+<div align="center">
+Made with ❤️ by Ashwin S Nambiar
+</div>
