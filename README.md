@@ -63,7 +63,7 @@ A modern, full-stack notes application built with Next.js and TypeScript, powere
    ```bash
    npm run dev
    ```
-   Visit `http://localhost:3000` to view the app
+   Visit `http://localhost:3000` to view the app.
 
 ## 📸 Screenshots
 
