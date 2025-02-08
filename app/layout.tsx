@@ -9,7 +9,8 @@ export default function RootLayout({
     return (
         <html lang="en" className="h-full">
             <head>
-                <title>Notes App</title> 
+                <title>Notes App</title>
+                <link rel="icon" type='image/svg' href="/note.svg" /> 
             </head>
             <body className="bg-black min-h-full">
                 <main className="min-h-screen bg-linear-to-b from-gray-900 to-black text-white">
