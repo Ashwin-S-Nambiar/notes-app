@@ -9,7 +9,7 @@
 
 A modern, full-stack notes application built with Next.js and TypeScript, powered by PocketBase for backend operations.
 
-[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation--running-locally) • [Screenshots](#-screenshots) • [Author](#-author)
+[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation--running-locally) • [Contributing](#-contributing) • [Screenshots](#-screenshots) • [Author](#-author)
 
 </div>
 
@@ -64,6 +64,31 @@ A modern, full-stack notes application built with Next.js and TypeScript, powere
    npm run dev
    ```
    Visit `http://localhost:3000` to view the app.
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help improve the Color Scheme Generator:
+
+1. Fork the repository
+2. Create a feature branch:
+
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+
+3. Commit your changes:
+
+   ```bash
+   git commit -m 'Add some amazing feature'
+   ```
+
+4. Push to the branch:
+
+   ```bash
+   git push origin feature/amazing-feature
+   ```
+
+5. Open a Pull Request   
 
 ## 📸 Screenshots
 
