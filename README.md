@@ -67,7 +67,7 @@ A modern, full-stack notes application built with Next.js and TypeScript, powere
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help improve the Color Scheme Generator:
+Contributions are welcome! Here's how you can help improve Notes App:
 
 1. Fork the repository
 2. Create a feature branch:
