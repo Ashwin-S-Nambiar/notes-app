@@ -7,7 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
 
-A modern, full-stack notes application built with Next.js and TypeScript, powered by PocketBase for backend operations.
+A modern, full-stack notes application built with Next.js and TypeScript, powered by PocketBase for backend operations. Users can add and view notes.
 
 [Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation--running-locally) • [Contributing](#-contributing) • [Screenshots](#-screenshots) • [Author](#-author)
 
