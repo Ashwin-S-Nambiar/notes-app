@@ -1,4 +1,4 @@
-# Notes App 📝
+# Notes App
 
 <div align="center">
 
@@ -13,14 +13,14 @@ A modern, full-stack notes application built with Next.js and TypeScript, powere
 
 </div>
 
-## ✨ Features
+## Features
 
-- **🎯 Intuitive Note Management** - Create, edit, and delete notes with ease
-- **📱 Responsive Design** - Seamless experience across all devices
-- **⚡ Fast Performance** - Built with Next.js for optimal speed and SEO
-- **🔒 Local Backend** - Powered by PocketBase for secure data management
+- **Intuitive Note Management** - Create, edit, and delete notes with ease
+- **Responsive Design** - Seamless experience across all devices
+- **Fast Performance** - Built with Next.js for optimal speed and SEO
+- **Local Backend** - Powered by PocketBase for secure data management
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Next.js** - React framework for production
@@ -30,7 +30,7 @@ A modern, full-stack notes application built with Next.js and TypeScript, powere
 ### Backend
 - **PocketBase** - Open source backend in one file
 
-## 🚀 Installation / Running Locally
+## Installation / Running Locally
 
 1. **Clone the repository**
 
@@ -65,7 +65,7 @@ A modern, full-stack notes application built with Next.js and TypeScript, powere
    ```
    Visit `http://localhost:3000` to view the app.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help improve Notes App:
 
@@ -90,7 +90,7 @@ Contributions are welcome! Here's how you can help improve Notes App:
 
 5. Open a Pull Request   
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Contributions are welcome! Here's how you can help improve Notes App:
 
 </div>
 
-## 👤 Author
+## Author
 
 ### Ashwin S Nambiar
 - Portfolio: [ashwin.co.in](https://ashwin.co.in)
