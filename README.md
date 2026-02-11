@@ -9,7 +9,7 @@
 
 A modern, full-stack notes application built with Next.js and TypeScript, powered by PocketBase for backend operations. Users can add and view notes.
 
-[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation--running-locally) • [Contributing](#-contributing) • [Screenshots](#-screenshots) • [Author](#-author)
+[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation--running-locally) • [Contributing](#-contributing) • [Screenshots](#-screenshots)
 
 </div>
 
